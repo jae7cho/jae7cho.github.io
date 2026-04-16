@@ -35,7 +35,7 @@ redirect_from:
 12. Cho, J.W., Smith, L., Flinn, J., Burdett, D., Ackermann, R.F., Bachus, S.E. Parallels between individual variability in hippocampal NR2a expression and Morris Water Maze learning. Society for Neuroscience 2013.
 
 ## Professional Experience
-* **Data Science Consultant** | Accenture, New York, NY (January 2022 - Present)
+* **Data Science Consultant** - Accenture, New York, NY (January 2022 - Present)
   * Led client/stakeholder workshops, meetings and presentations to improve engagement with analytical tools, define business problems, and effectively communicate data-driven solutions and ML model results to non-technical audiences.
   * Designed and developed an ensemble model consisting of time series forecasting with Prophet and XGBoost classification to predict spikes in generator repairs for financial planning.
   * Designed and productionized XGBoost models to improve pipeline efficiency and reduce operational costs (~$17M) by forecasting wireless network site build time-to-completion with ~80% prediction accuracy. Insights delivered to finance and engineering analytics directors and VP’s.
@@ -43,7 +43,7 @@ redirect_from:
   * Ad-hoc NLP analysis on free-text fields to determine unnecessary work orders and cell tower build cancellation reasons to yield preventative measures delivered as a report to the chief of engineering analytics.
   * Manage, maintain and enhance a proactive data-driven, user-configurable alert system identifying bottlenecks, poor performance trends and pain points in the wireless network site building process allowing field directors to improve resource allocation to meet monthly targets.
 
-* **Data Analyst** | Center for the Developing Brain, Child Mind Institute (August 2018 - December 2021)
+* **Data Analyst** - Center for the Developing Brain, Child Mind Institute (August 2018 - December 2021)
   * Under the mentorship of Dr. Ting Xu, and Dr. Michael P. Milham, contributed to three core projects focused on improving fMRI analyses and processing techniques in human and non-human primates.
   * Developed and demonstrated the use of a novel framework to study the impact of within- and between-individual variability, and projection of individual data to a shared functional space on test-retest intraclass correlation (ICC) of functional connectivity.
   * Gained experience with visualization of and surface-based fMRI analyses using Connectome Workbench and python, behavioral prediction and statistical analyses, and manuscript preparation.
@@ -51,26 +51,26 @@ redirect_from:
   * Processed and compared a novel neural network model for delineating the brain from the skull with existing methods in non-human primate (NHP) structural MRI data from the PRIMatE Data Exchange (PRIME-DE).
   * Acquired knowledge regarding the impacts of structural MRI preprocessing steps on NHP datasets, organized figures and files for a public data release using GitHub.
 
-* **Clinical Research Assistant** | Washington DC VA Medical Center (October 2014 - 2017)
+* **Clinical Research Assistant** - Washington DC VA Medical Center (October 2014 - 2017)
   * With the mentorship of Dr. Barbara L. Schwartz and Dr. Theresa T. Woo, assisted with a longitudinal study investigating the feasibility of a 12-week exercise intervention for veterans with schizophrenia.
   * Supervised participant exercise sessions, helped administer and score clinical tests, quantify neurotrophin using enzyme-linked immunosorbent assay (ELISA), and assumed responsibility for learning and analyzing structural MRI and arterial spin labeling data (ASL).
   * Contributed to manuscript for publication. In an ongoing study, gained experience with preparing, executing and analyzing results from quantitative polymerase chain reaction (qPCR).
 
-* **Research Assistant** | George Mason University (March 2012 - 2017)
+* **Research Assistant** - George Mason University (March 2012 - 2017)
   * Performed self-directed study under the supervision of Dr. James C. Thompson examining the relationship between graph theoretical measures of network topology, structural connectivity from white matter tracts and measures of psychosis across diagnoses.
   * Gained experience implementing and creating a preprocessing pipeline integrating existing neuroimaging software, MATLAB, and utilization of graphics processing units (GPU) on linux systems for data processing.
   * Examined the heritability and individual variability of neurotransmitter mRNA expression in mice and their offspring in hippocampal subfields and its relationship to working memory.
   * Acquired experience with preparing and cryosectioning mouse brains, in-situ hybridization and statistical analysis of Morris Water Maze data.
 
 ## Teaching Experience
-* **Data Science Mentor** | Accenture, New York, NY (January 2024 - Present)
+* **Data Science Mentor** - Accenture, New York, NY (January 2024 - Present)
   * Mentored 2 interns and 1 analyst to successfully design and implement end-to-end ML pipelines consisting of ETL, feature engineering, model testing and pipeline deployment.
 
-* **Instructor/Tutor** | Virginia Korean Baptist Church Academy, Fairfax VA (May 2014 - May 2025)
+* **Instructor/Tutor** - Virginia Korean Baptist Church Academy, Fairfax VA (May 2014 - May 2025)
   * Created lesson plans based on students’ syllabi to review prior material and prepare for upcoming classes (Algebra, Pre-Calc, AP Calculus AB).
   * Supervised class projects, writing, and test preparation.
 
 ## Professional Service
-* **Communications, Media and Telecommunications (CMT) Data & AI Team** | Accenture, New York, NY (August 2022 - May 2025)
+* **Communications, Media and Telecommunications (CMT) Data & AI Team** - Accenture, New York, NY (August 2022 - May 2025)
   * Collaborated within a team to accumulate and synthesize recent news and case studies on machine learning applications in CMT for a monthly newsletter.
   * Connected with industry experts within the company for meeting presentations, created ice-breaker games for monthly virtual meetings and organized project vacancies documents to assist unstaffed coworkers.
